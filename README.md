@@ -5,3 +5,5 @@ Welcome to "Climb to Success: Exploring Games"! This project aims to delve into 
 ## Author
 **Name:** Romanova Uliana  
 **Matricola:** S5137112
+
+For optimal viewing experience, it is recommended to set your screen size to 75%.
